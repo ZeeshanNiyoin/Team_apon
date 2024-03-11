@@ -1,0 +1,67 @@
+
+.position-relative img {
+  /* border-radius: 16px; */
+  /* border-bottom-radius: 25px; */
+  border-bottom-left-radius: 26px;
+  border-bottom-right-radius: 26px;
+}
+/* model start */
+.modal-content1 {
+background-color: #fefefe;
+margin: auto;
+padding: 20px;
+/* border: 1px solid #888; */
+border-radius: 4px;
+width: 70%;
+}
+.para{
+color: rgb(52, 51, 51);
+}
+#myModal .m .modal-content1{
+margin-top: 60px;
+/* background-color: red; */
+}
+#myModal{
+background-color: rgba(203, 200, 200, 0.658);
+/* z-index: -1; */
+
+
+}
+#myBtn{
+border: none;
+background-color: #fff;
+color: rgb(119, 118, 118); 
+}
+#colorr_nav{
+color: rgb(96,96,96);
+border: none;
+background-color: #fff;
+}
+.modal-content1{
+background-color: white;
+}
+/* The Close Button */
+.close {
+color: #aaaaaa;
+float: right;
+font-size: 28px;
+font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+color: #000;
+text-decoration: none;
+cursor: pointer;
+}
+
+.banner {
+  background-image: url("img/posterssimg.jpeg");
+  background-size: cover;
+  background-position: center;
+  color: #ffffff;
+  padding: 100px 0;
+  text-align: center;
+  margin-bottom: 60px;
+  /* margin-top: -120px; */
+}
